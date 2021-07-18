@@ -1,9 +1,9 @@
 # VoiceTurn - Voice-controlled turn lights for a safer ride
 
 ### Arduino library of the VoiceTurn project (Arduino Nano 33 BLE Sense required)
-- Project website
+- [Project website](https://www.hackster.io/a_g_v/voiceturn-voice-controlled-turn-lights-for-a-safer-ride-3a8e78)
 - [Edge Impulse project](https://studio.edgeimpulse.com/public/39038/latest)
-- YouTube video
+- [YouTube video](https://www.youtube.com/watch?v=3fPsYWwPe0U)
 
 #### Instructions:
 1. [Install the Arduino IDE](https://www.arduino.cc/en/software)
