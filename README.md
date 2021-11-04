@@ -5,7 +5,11 @@
 - [Edge Impulse project](https://studio.edgeimpulse.com/public/39038/latest)
 - [YouTube video](https://www.youtube.com/watch?v=3fPsYWwPe0U)
 
-#### Instructions:
+## :trophy: WINNER OF THE TENSORFLOW LITE FOR MICROCONTROLLERS CHALLENGE :trophy:
+![TFBlog_ChallengeWinners_Hero_v_001](https://user-images.githubusercontent.com/87429285/140397258-e6601197-50bf-46ea-b689-2cd428a6633c.png)
+The winners of the TensorFlow Lite for Microcontrollers Challenge were [announced](https://blog.tensorflow.org/2021/10/announcing-winners-of-tensorflow-lite.html) on Octuber 18, 2021. This project was among the five worldwide winners and was featured in the [Experiments with Google](https://experiments.withgoogle.com/voice-turn) website.
+
+## Instructions:
 1. [Install the Arduino IDE](https://www.arduino.cc/en/software)
 
 2. From the Arduino IDE, click on `Tools > Board > Boards Manager...` and install the **Arduino Mbed OS Nano Boards** package.
@@ -37,3 +41,5 @@
 14. Connect the Arduino board to the power bank.
 
 15. **Enjoy the ride!**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3fPsYWwPe0U/0.jpg)](https://www.youtube.com/watch?v=3fPsYWwPe0U)
